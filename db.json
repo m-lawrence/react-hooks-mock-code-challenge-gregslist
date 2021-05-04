@@ -29,6 +29,12 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Good as new",
+      "image": "https://static.turbosquid.com/Preview/2016/07/14__13_34_28/Signature.png969A955F-FB14-4A26-8E60-0C960ECE319DLarge.jpg",
+      "location": "Downtown Townville",
+      "id": 9
     }
   ]
 }
